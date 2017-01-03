@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto';
+}
+
+.box {
+    height: auto;
+    width: auto;
+    border: 1px solid rgb(219, 214, 214);
+}
+
+nav {
+    background-color: rgb(230, 191, 78);
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.title>p, h1 {
+    margin: 5px;
+}
+
+.description {
+    padding: 10px;
+}
+
+.description h3, p {
+    margin: 10px;
+}
